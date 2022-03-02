@@ -4,8 +4,4 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
-  <context-param>
-    <param-name>namespace</param-name>
-    <param-value>21312</param-value>
-  </context-param>
 </web-app>
