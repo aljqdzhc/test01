@@ -1,0 +1,14 @@
+com\bjpowernode\oa\settings\service\UserService.class
+com\bjpowernode\oa\exception\LoginException.class
+com\bjpowernode\oa\utils\PrintJson.class
+com\bjpowernode\oa\utils\ServiceFactory.class
+com\bjpowernode\oa\utils\TransactionInvocationHandler.class
+com\bjpowernode\oa\settings\web\contorller\Test01.class
+com\bjpowernode\oa\settings\dao\UserDao.class
+com\bjpowernode\oa\utils\DateTimeUtil.class
+com\bjpowernode\oa\settings\service\impl\UserServiceImpl.class
+com\bjpowernode\oa\utils\UUIDUtil.class
+com\bjpowernode\oa\utils\SqlSessionUtil.class
+com\bjpowernode\oa\settings\web\contorller\UserController.class
+com\bjpowernode\oa\utils\MD5Util.class
+com\bjpowernode\oa\settings\daomain\User.class

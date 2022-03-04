@@ -8,7 +8,7 @@
   
   <typeAliases>
   
-  	<package name="com.bjpowernode.oa.settings.domain"/>
+  	<package name="com.bjpowernode.oa.settings.daomain"/>
   	<package name="com.bjpowernode.oa.workbench.domain"/>
 
   
